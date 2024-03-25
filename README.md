@@ -41,6 +41,6 @@ The development of F-FEELNet thrived on contributions across fields, emphasizing
 
 ## Licensing and Exploration
 
-F-FEEL Net was made available under the MIT License, fostering open innovation in the creation of emotionally and ethically intelligent humanoid robots.
+F-FEELNet was made available under the MIT License, fostering open innovation in the creation of emotionally and ethically intelligent humanoid robots.
 
 For further information on F-FEELNet, including detailed methodologies, implementation guides, and collaboration opportunities, visit [https://github.com/aurelius-in/F-FEELNet](https://github.com/aurelius-in/F-FEELNet)
